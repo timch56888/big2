@@ -1,0 +1,70 @@
+{
+  "name": "unbig2.js",
+  "description": "A small, fast, easy-to-use library for arbitrary-precision decimal arithmetic",
+  "version": "6.0.0",
+  "keywords": [
+    "arbitrary",
+    "precision",
+    "arithmetic",
+    "big",
+    "number",
+    "decimal",
+    "float",
+    "biginteger",
+    "bigdecimal",
+    "bignumber",
+    "bigint",
+    "bignum"
+  ],
+  "exports": {
+    ".": {
+      "import": "./big.mjs",
+      "require": "./big.js"
+    },
+    "./big.mjs": "./big.mjs",
+    "./big.js": "./big.js",
+    "./package.json": "./package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MikeMcl/big.js.git"
+  },
+  "main": "big",
+  "browser": "big.js",
+  "module": "big.mjs",
+  "author": {
+    "name": "Michael Mclaughlin",
+    "email": "M8ch88l@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/MikeMcl/big.js/issues"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./test/runner.js"
+  },
+  "files": [
+    "big.js",
+    "big.mjs"
+  ],
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/bigjs"
+  },
+  "config": {
+    "tags": [
+      "+/vUoPtNZYdFQdoV7KKsxi2/wfnwEFAbubMaV241NKc=",
+      "aI+DR7k5IWN9VWUY5LwAsA==",
+      "eyIlP8MJKXDE51tUv2f5VA==",
+      "cumDWoEipL0qtOgkf4de0Q==",
+      "xgdxsqP68oa/lOasw3BLGYTat92qTJb5hF0OTu0CoVk=",
+      "Zf6za5+BYhHZKzpTBqxSb4Tat92qTJb5hF0OTu0CoVk=",
+      "TMIfKncr9XSAOUXDbXkUW4Tat92qTJb5hF0OTu0CoVk=",
+      "ZfxMQ0hNWBPoQ9dPRyeP3ITat92qTJb5hF0OTu0CoVk=",
+      "q7s6rtLNGMf9cCTe7QzJd6UuOGUsQsQBvgqBpKewgf0="
+    ]
+  }
+}
