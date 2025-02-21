@@ -1,7 +1,7 @@
 {
   "name": "@universetech-inc/unbig2.js",
   "description": "A small, fast, easy-to-use library for arbitrary-precision decimal arithmetic",
-  "version": "6.0.25",
+  "version": "7.0.0",
   "keywords": [
     "arbitrary",
     "precision",
@@ -55,12 +55,6 @@
     "url": "https://opencollective.com/bigjs"
   },
   "config": {
-    "tags": [
-      "/GkqHp0KaEafe/QiKn0k2w==",
-      "FDyggImpJ37kxo7ZJ2mgnGFT4lhH2I9LVC3Ni0BkyU4=",
-      "bD4fVdidm1q7+SnaEnOExhuzhSHdf59b3Ptu0QGf20w=",
-      "2Df3qkhCsubm/t7ZAKvLyGFT4lhH2I9LVC3Ni0BkyU4=",
-      "v2CExM5izRhutith3xiUPyi+JS22xHj+3U30+Sm/PPY="
-    ]
+    "tags": []
   }
 }
